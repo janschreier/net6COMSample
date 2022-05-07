@@ -1,11 +1,3 @@
----
-languages:
-- csharp
-products:
-- dotnet-core
-- windows
----
-
 # Extended COM Server Demo
 
 This is an extension of [Microsofts basic example of providing a managed COM server in .NET Core/5+](https://github.com/dotnet/samples/tree/main/core/extensions/COMServerDemo). Documentation on the inner workings of activation can be found [here](https://github.com/dotnet/runtime/blob/main/docs/design/features/COM-activation.md).
